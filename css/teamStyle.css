@@ -78,7 +78,7 @@
   .image-container-text h1{
     font-weight: 900;
     /* margin-top: 10vh; */
-    animation: text-pop-up-top 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1 both;
+    animation: text-pop-up-top 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1 both;
 
   }
 
@@ -284,8 +284,9 @@
     letter-spacing: 2px;
     color: #047168;
     text-transform: uppercase;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     margin-top: 20px;
+    
 }
 .our-team .post{
     display: block;
@@ -293,7 +294,7 @@
     font-weight: 600;
     color: #707070;
     text-transform: capitalize;
-    margin-bottom: 7px;
+    margin-bottom: 10px;
 }
 
 #team-bottom{
