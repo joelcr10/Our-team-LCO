@@ -61,7 +61,7 @@ footer {
         .ftco-footer-social li a:hover {
           color: #fff; }
     .footer-07 .ftco-footer-social li a:hover{
-      background-color: white;
+      background-color: rgb(255, 255, 255);
     }
 
     .copyright a{

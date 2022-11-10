@@ -97,9 +97,12 @@
 
 
   .image-container-text p{
-    font-weight: 400;
-    font-size: 1.05em;
+    margin-top: 20px;
+    font-weight: 450;
+    font-family: "Poppins";
+    font-size: 1.1em;
     font-style: italic;
+    color: #000000ce;
   }
 
   .meet-team{
@@ -139,7 +142,7 @@
       width: 100%;
       opacity:1;
       max-width: 500px;
-      padding-bottom: 25vh;
+      padding-bottom: 20vh;
       /* background-color: #707070; */
     }
 
@@ -150,6 +153,7 @@
       /* background-color: #707070; */
       padding-top: 0%;
       margin-top: 0%;
+      /* margin-bottom: 5%; */
       /* margin-top: 10%; */
     }
 
@@ -160,13 +164,14 @@
       /* padding-top: 10%; */
       width: 80%;
       margin: auto;
+      font-size: 1em;
       text-align: center;
-      display: none;
+      /* display: none; */
      
     }
 
     .image-container-text h1{
-      font-size: 4em;
+      font-size: 3.8em;
       text-align: center;
     }
 
