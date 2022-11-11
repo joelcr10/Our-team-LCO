@@ -102,7 +102,7 @@
     font-family: "Poppins";
     font-size: 1.1em;
     font-style: italic;
-    color: #000000ce;
+    color: #000000b3;
   }
 
   .meet-team{
@@ -116,6 +116,7 @@
   .meet-team h1{
     font-size: 4em;
     font-weight: 700;
+    padding-bottom: 20px;
     
   }
 
@@ -280,6 +281,11 @@
     left: 0;
     z-index: -1;
     transition: all 0.3s ease 0s;
+}
+
+#grand-master{
+  font-size: 18px;
+  font-weight: 500;
 }
 .our-team .social li a:hover:after{ transform: rotate(180deg); }
 .our-team .team-content{ padding: 0px; }
